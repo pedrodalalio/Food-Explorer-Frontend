@@ -3,7 +3,7 @@ import axios from 'axios';
 import { useAuth } from './auth';
 
 export const api = axios.create({
-  baseURL: 'http://localhost:3001'
+  baseURL: 'https://food-explorer-backend-4yhx.onrender.com'
 });
 
 const ApiProvider = ({ children }) => {
