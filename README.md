@@ -15,3 +15,4 @@ teste_login@gmail.com
 ```
 
 ## 🔗 Link do Projeto:
+https://food-explorer-pedrodalalio.netlify.app/
