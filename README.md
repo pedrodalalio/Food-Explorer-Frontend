@@ -16,3 +16,6 @@ teste_login@gmail.com
 
 ## 🔗 Link do Projeto:
 https://food-explorer-pedrodalalio.netlify.app/
+
+## 🔗 Lindo do Figma:
+https://www.figma.com/design/MjBDIEG7SzbRhs4xT1T1iX/food-explorer-v2-(Community)?m=auto&t=JosSBIqSjlrNYHon-1
